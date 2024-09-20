@@ -1,9 +1,10 @@
-Laravel Payment Service
-A payment service built with Laravel, designed to handle payment processing seamlessly. This service integrates with popular payment gateways (Stripe) and provides functionality for charging and refunding transactions.
+# Payment Service
 
-Features:
-Supports multiple payment methods.
-Simple API for charging and refunding orders.
-Customizable payment processing logic.
-Unit tests for reliability and maintainability.
-Ideal for e-commerce applications and any system requiring secure and efficient payment processing.
+A robust payment service built with Laravel, designed to handle payment processing seamlessly. This service integrates with popular payment gateways (e.g., Stripe) and provides functionality for charging and refunding transactions.
+
+## Features
+
+- **Multiple Payment Methods**: Supports various payment options to enhance flexibility.
+- **Simple API**: Provides an easy-to-use API for charging and refunding orders.
+- **Customizable Logic**: Tailor the payment processing to fit your application's specific needs.
+- **Unit Tests**: Comprehensive unit tests ensure reliability and maintainability.
